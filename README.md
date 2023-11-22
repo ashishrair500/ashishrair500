@@ -7,8 +7,8 @@ WebDeveloper and OpenSource Enthusiast
 * 🌍  I'm based in Indore
 * 🖥️  See my portfolio at [click](http://ashishrair500.github.io/myportfolio.github.io/)
 * ✉️  You can contact me at [ashishrair500@gmail.com](mailto:ashishrair500@gmail.com)
-* 🧠  I'm learning DSA And JavaScript
-* 🤝  I'm open to collaborating on Andriod
+* 🧠  I'm learning DSA And webdevelopment
+* 🤝  I'm open to collaborating on React Project
 
 <a href="https://www.github.com/ashishrair500" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ashishrair500?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
